@@ -1,0 +1,6 @@
+artifact_location: file:///home/prateek/MLOps_MLFlow_assignment5/mlruns/292923628732884120
+creation_time: 1727765117514
+experiment_id: '292923628732884120'
+last_update_time: 1727765117514
+lifecycle_stage: active
+name: MLflow_Experiment_Tracking
