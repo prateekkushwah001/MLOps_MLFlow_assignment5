@@ -1,0 +1,16 @@
+artifact_uri: file:///home/prateek/MLOps_MLFlow_assignment5/mlruns/452139165962548668/bfed3984c2214ef6b4ed949c8737d6d1/artifacts
+deleted_time: 1728312994519
+end_time: 1728197276754
+entry_point_name: ''
+experiment_id: '452139165962548668'
+lifecycle_stage: deleted
+run_id: bfed3984c2214ef6b4ed949c8737d6d1
+run_name: Random_Forest
+run_uuid: bfed3984c2214ef6b4ed949c8737d6d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728197274930
+status: 3
+tags: []
+user_id: prateek

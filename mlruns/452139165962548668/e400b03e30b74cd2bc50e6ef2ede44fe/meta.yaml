@@ -1,0 +1,16 @@
+artifact_uri: file:///home/prateek/MLOps_MLFlow_assignment5/mlruns/452139165962548668/e400b03e30b74cd2bc50e6ef2ede44fe/artifacts
+deleted_time: 1728195837928
+end_time: 1728195420393
+entry_point_name: ''
+experiment_id: '452139165962548668'
+lifecycle_stage: deleted
+run_id: e400b03e30b74cd2bc50e6ef2ede44fe
+run_name: Linear_Regression
+run_uuid: e400b03e30b74cd2bc50e6ef2ede44fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728195416887
+status: 3
+tags: []
+user_id: prateek
